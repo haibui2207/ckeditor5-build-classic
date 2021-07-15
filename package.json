@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "@e2w/ckeditor5-build-classic",
   "author": "Haibui via CKSource online builder",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
